@@ -1,4 +1,4 @@
-# file_finder
+# POMODOROS
 
 A new Flutter project.
 
